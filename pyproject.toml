@@ -1,0 +1,11 @@
+[project]
+name = "Heuristics_PA3"
+version = "0.1.0"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "jupyter-core>=5.9.1",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "pandas>=3.0.6",
+    "scipy>=1.18.1",
+]
