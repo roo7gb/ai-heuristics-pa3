@@ -2,6 +2,7 @@
 name = "Heuristics_PA3"
 version = "0.1.0"
 dependencies = [
+    "imageio-ffmpeg>=0.8.1",
     "ipykernel>=7.4.0",
     "jupyter-core>=5.9.1",
     "matplotlib>=3.11.2",
